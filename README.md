@@ -1,4 +1,4 @@
-📘 Lista de Exercícios em Java
+
 🧠 Resumo das Atividades
 Nesta tarefa, foram desenvolvidos programas em Java com o objetivo de praticar conceitos fundamentais da linguagem, incluindo entrada de dados, estruturas de controle, manipulação de strings e uso de funções matemáticas.
 
